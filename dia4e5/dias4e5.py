@@ -47,7 +47,4 @@ def main():
         else:
             print("Calculadora finalizada.") 
             break
-main() 
-        
-        
-          
+main()
