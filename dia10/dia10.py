@@ -9,11 +9,11 @@ data = {
 
 df = pd.DataFrame(data)
 
-# Filtragem
+# Filtragem de funcionarios
 funcionarios_ti = df[df['departamento'] == 'TI']
 print(funcionarios_ti)
 
-# Média Salarial
+# Média Salarial dos funcionarios de TI
 
 media_salarial = funcionarios_ti['salario'].mean()
 
