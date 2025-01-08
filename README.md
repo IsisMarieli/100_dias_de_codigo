@@ -8,4 +8,4 @@
 - Dias 4 e 5: Criando uma calculadora em python
 - Dia 6: Como calcular o fatorial de um número em python
 - Dia 7: Gerando tabuada de um número em python
-- Dia 8: Convertendo temperatura de Celsius para Fahrenheit
+- Dia 8: Convertendo temperatura de Celsius para Fahrenheit em python
