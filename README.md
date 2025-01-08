@@ -9,3 +9,7 @@
 - Dia 6: Como calcular o fatorial de um número em python
 - Dia 7: Gerando tabuada de um número em python
 - Dia 8: Convertendo temperatura de Celsius para Fahrenheit em python
+- Dia 9: Criando e Operando um Dataframe com Numpy e Pandas
+- Dia 10: Filtrando Dados em um DataFrame 
+- Dia 11: Manipulação Básica HTML, CSS & JS
+- Dia 12: Flip card com HTML & CSS 
