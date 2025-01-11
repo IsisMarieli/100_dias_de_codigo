@@ -13,4 +13,6 @@
 - Dia 10: Filtrando Dados em um DataFrame 
 - Dia 11: Manipulação Básica HTML, CSS & JS
 - Dia 12: Flip card com HTML & CSS 
-- Dia 12: Temporizador com HTML, CSS & JS
+- Dia 13: Temporizador com HTML, CSS & JS
+- Dia 14: Botão dark/ligth 
+- Dia 15: Contador de Caracteres
