@@ -16,3 +16,4 @@
 - Dia 13: Temporizador com HTML, CSS & JS
 - Dia 14: Botão dark/ligth 
 - Dia 15: Contador de Caracteres
+- Dia 16: Carrossel de Imagens
