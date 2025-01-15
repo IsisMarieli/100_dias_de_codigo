@@ -17,3 +17,7 @@
 - Dia 14: Botão dark/ligth 
 - Dia 15: Contador de Caracteres
 - Dia 16: Carrossel de Imagens
+- Dia 17: Gerador de Senhas Aleatórias 
+- Dia 18: Jogo da Velha
+- Dia 19: App de Previssão do tempo
+- Dia 20: Botão de Vendas Onlines
