@@ -1,0 +1,7 @@
+- Dia 23: Commit & Push
+
+no terminal git bash:
+
+- git commit -m "descrever commit"
+
+- git push -v origin master (Enviar commits locais para um repositório remoto)
