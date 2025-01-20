@@ -1,0 +1,11 @@
+- Dia 22: Vinculando Git e Github 
+
+Criando repositorio no Github e vinvulando com o Git
+
+- No terminal do git bash => git remote add origin + a URL do repositorio criado do github
+
+- git status
+
+- code .
+
+- git add + a pasta ou arquivo ou git add .
