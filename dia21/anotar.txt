@@ -1,0 +1,11 @@
+- Dia 21: Introdução e Instalação Do Git
+
+=> git --version git
+
+=> git config --global user.name "yourName"
+
+=> git config --global user.email yourEmail
+
+=> git init = inicializar um repositório Git em um diretório local. Ao rodar esse comando, 
+   o Git cria uma subpasta chamada .git dentro do diretório atual, que contém todos os 
+   arquivos e metadados necessários para o controle de versão. 
