@@ -21,3 +21,12 @@
 - Dia 18: Jogo da Velha
 - Dia 19: App de Previssão do tempo
 - Dia 20: Botão de Vendas Onlines
+- Dia 21: Introdução e Instalação Do Git
+- Dia 22: Vinculando Git e Github 
+- Dia 23: Commit & Push
+- Dia 24: Git Pull
+- Dia 25: Branches
+- Dia 26: GitHub Fork
+- Dias 27 e 28 : Estilizando o Perfil do Github
+- Dia 29: Hospedando o Projeto no GitHub
+- Dia 30: Trabalhando com Git no VSCode
