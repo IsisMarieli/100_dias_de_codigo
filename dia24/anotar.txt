@@ -1,0 +1,7 @@
+- Dia 24: Git Pull
+
+=> Usa o Pull quando quer trabalhar uma versão mais recente do código
+
+=> fez mudança no GitHub e depois verificar com git status se as mudanças foram feitas no repositorio local
+
+- git pull origin master (puxar do repositorio remoto para o local o código mais recente)
