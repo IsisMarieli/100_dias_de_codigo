@@ -1,0 +1,18 @@
+- Dia 25: Branches
+
+- git branch (verificar qual branch esta)
+
+- git checkout -b + nome da sua nova branch (criar nova branche)
+
+=> Cria arquivos novos na nova Branch
+- git status (para verificar os arquivos)
+
+- git add . (para adicionar os arquivos)
+
+- git commit -m "fazendo commit da nova branch"
+
+- git push -v origin + nome da nova branch (Enviar commits locais para um repositório remoto)
+
+- git checkout + nome da branch (vai sair de uma branch para outra)
+
+-git branch (verificar as branchs)
