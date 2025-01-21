@@ -1,0 +1,11 @@
+- Dia 29: Hospedando o Projeto no GitHub
+
+
+=> como hospedar projeto?
+
+- Opção 1: usar o Vercel
+
+- Opção 2: 
+- no proprio GitHub ir no repositorio que quer fazer a hospedagem
+- ir em settings => pages => Branch -> main e /(root) 
+-(lembrar em deixar em GitHub actions)
