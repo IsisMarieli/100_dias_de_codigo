@@ -1,0 +1,8 @@
+- Dia 26: GitHub Fork
+
+=> o Fork faz com que "pegue emprestado" um repositório de outra pessoa assim pode modificar sem alterar o original
+
+=> Em um repositório de outro user:
+- Creat a new fork 
+
+- seleciona um Owner, nome e Creat Fork
