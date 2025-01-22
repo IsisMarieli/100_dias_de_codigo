@@ -1,0 +1,3 @@
+- Dia 30: Trabalhando com Git no VSCode
+
+=> Foi abordado as funcionalidades do Git pelo VSCode(como no git bash)
