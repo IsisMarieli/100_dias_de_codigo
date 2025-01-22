@@ -30,7 +30,15 @@
 - Dias 27 e 28 : Estilizando o Perfil do Github
 - Dia 29: Hospedando o Projeto no GitHub
 - Dia 30: Trabalhando com Git no VSCode
-- Dia 31: Introdução e Instalação React
-- Dia 32: Componentes em React
-- Dia 33: Props em React
-- Dia 34: Renderização Condicional e UseState
+- Dia 31 a 40(REACT): 
+Introdução e Instalação React,
+Componentes em React,
+Props em React, 
+Renderização Condicional e UseState,
+Criando um contador em React,
+Consumindo API com React,
+Timer em React,
+To-do list em React,
+Lista de tarefas em React,
+Botão “DELETE” no Quadro de Tarefas em React
+- Dia 41: Instalação e Inicialização Node.JS
