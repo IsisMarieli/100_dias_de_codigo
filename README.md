@@ -30,3 +30,7 @@
 - Dias 27 e 28 : Estilizando o Perfil do Github
 - Dia 29: Hospedando o Projeto no GitHub
 - Dia 30: Trabalhando com Git no VSCode
+- Dia 31: Introdução e Instalação React
+- Dia 32: Componentes em React
+- Dia 33: Props em React
+- Dia 34: Renderização Condicional e UseState
