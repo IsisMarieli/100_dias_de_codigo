@@ -1,0 +1,18 @@
+- Dia 31: Introdução e Instalação React
+
+=> Instalação do vite
+
+- npm create vite@latest
+- add o nome do projeto 
+- escolhe o framework (react)
+
+- cd react100dias (nome que botou do projeto)
+- npm install
+- npm run dev
+
+- Dia 32: Componentes em React
+-> Na pasta src criar pasta Componentes > arquivo MyComponent.jsx
+
+- Dia 33: Props em React 
+-> Usa o props como parametro da função MyComponent como parametro
+- adiciona as propriedades no app.jsx e importa ao MyComponent com <h1>{props.title}</h1> etc
