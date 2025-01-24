@@ -16,3 +16,6 @@
 - Dia 33: Props em React 
 -> Usa o props como parametro da função MyComponent como parametro
 - adiciona as propriedades no app.jsx e importa ao MyComponent com <h1>{props.title}</h1> etc
+
+- Dia 34: Renderização Condicional e UseState
+-> Criar arquivo em Componentes > CondicionalComponent.jsx
