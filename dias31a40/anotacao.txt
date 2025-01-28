@@ -19,3 +19,6 @@
 
 - Dia 34: Renderização Condicional e UseState
 -> Criar arquivo em Componentes > CondicionalComponent.jsx
+
+- Dia 35: Criando um contador em React
+-> Criar arquivo em Componentes > Counter.jsx

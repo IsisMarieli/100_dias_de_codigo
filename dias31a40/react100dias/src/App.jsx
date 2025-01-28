@@ -2,6 +2,7 @@ import { useState } from 'react'
 import './App.css'
 import MyComponent from './components/MyComponent'
 import CondicionalComponent from './components/CondicionalComponent';
+import Counter from './components/Counter';
 
 
 function App() {
@@ -13,6 +14,7 @@ function App() {
         description="Descrição via propriedades(props)"
       />
       <CondicionalComponent/>
+      <Counter/>
     </div>
   )
 }
