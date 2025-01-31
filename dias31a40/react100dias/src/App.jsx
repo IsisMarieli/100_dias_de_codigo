@@ -3,18 +3,22 @@ import './App.css'
 import MyComponent from './components/MyComponent'
 import CondicionalComponent from './components/CondicionalComponent';
 import Counter from './components/Counter';
+import GithubUser from './components/GithhubUser';
 
 
 function App() {
 
   return (
     <div>
-      <MyComponent
+      {/* <MyComponent
         title="Título via propriedades(props)"
         description="Descrição via propriedades(props)"
       />
       <CondicionalComponent/>
-      <Counter/>
+      <Counter/> */}
+      <GithubUser
+      userName="IsisMarieli"
+      />
     </div>
   )
 }

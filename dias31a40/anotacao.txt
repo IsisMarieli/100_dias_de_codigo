@@ -22,3 +22,7 @@
 
 - Dia 35: Criando um contador em React
 -> Criar arquivo em Componentes > Counter.jsx
+
+- Dia 36: Consumindo API com React
+-> Instalar biblioteca: npm install axios
+-> criar novo componente: GithubUser.jsx
