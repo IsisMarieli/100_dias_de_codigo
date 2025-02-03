@@ -10,12 +10,12 @@ function App() {
 
   return (
     <div>
-      {/* <MyComponent
+      <MyComponent
         title="Título via propriedades(props)"
         description="Descrição via propriedades(props)"
       />
       <CondicionalComponent/>
-      <Counter/> */}
+      <Counter/>
       <GithubUser
       userName="IsisMarieli"
       />

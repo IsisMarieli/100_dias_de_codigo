@@ -26,3 +26,6 @@
 - Dia 36: Consumindo API com React
 -> Instalar biblioteca: npm install axios
 -> criar novo componente: GithubUser.jsx
+
+- Dia 37: Timer em React
+-> criar outra pasta chamada "timer" e no terminal => npm create vite@latest
