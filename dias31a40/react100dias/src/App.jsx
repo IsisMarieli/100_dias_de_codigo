@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import './index.css'
 import './App.css'
 import MyComponent from './components/MyComponent'
 import CondicionalComponent from './components/CondicionalComponent';
