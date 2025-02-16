@@ -30,7 +30,7 @@
 - Dia 37: Timer em React
 -> criar outra pasta chamada "timer" e no terminal => npm create vite@latest => "timer"
 
-- Dia 38: To-do list em React
+- Dia 38 a 40: To-do list em React
 -> criar outra pasta chamada "Board" e no terminal => npm create vite@latest => "to-do-list"
 -> instalar o tailwindcss: https://v3.tailwindcss.com/docs/installation
 
