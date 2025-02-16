@@ -14,7 +14,7 @@ const Input = ({taskList, setTasklist}) => {
         <>
             <form className="flex flex-row items-center gap-3">
                 <input type="text" 
-                    className="border rounded1g py-1.5 px-2.5 text-1g "
+                    className="border rounded-lg py-1.5 px-2.5 text-lg "
                     placeholder="Adicione uma tarefa"
                     value={input}
                     onChange={(e) => setInput(e.target.value)}/>
