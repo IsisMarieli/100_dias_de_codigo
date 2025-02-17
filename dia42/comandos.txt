@@ -1,0 +1,5 @@
+# Inciando servidor com NodeJS
+
+npm init -y
+npm install express
+npm install cors
