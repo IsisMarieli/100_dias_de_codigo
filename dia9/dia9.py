@@ -14,6 +14,6 @@ minimo = df['vendas'].min()
 
 print(f"Média: {media}")
 print(f"Mediana: {mediana}")
-print(f"Desvio padrão: {media}")
+print(f"Desvio padrão: {desvio_padrao}")
 print(f"Maximo: {maximo}")
 print(f"Minimo: {minimo}")
